@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "ConestogaLogo.png",
+      "filename" : "Screenshot 2024-01-15 at 5.12.50 PM.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ConestogaLogo@2x.png",
+      "filename" : "Screenshot 2024-01-15 at 5.12.50 PM@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "ConestogaLogo@3x.png",
+      "filename" : "Screenshot 2024-01-15 at 5.12.50 PM@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
