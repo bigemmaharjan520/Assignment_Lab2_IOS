@@ -13,8 +13,6 @@ class ViewController: UIViewController {
     
     @IBOutlet var Number: UILabel!
     
-    
-    
     @IBAction func Incline(_ sender: Any) {
         showNumber += 1
         Number.text = String(showNumber)
